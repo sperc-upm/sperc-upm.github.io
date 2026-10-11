@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /internal/
+Disallow: /ms/internal/
+
+Sitemap: https://sperc-upm.github.io/sitemap-index.xml
