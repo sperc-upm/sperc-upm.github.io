@@ -1,0 +1,1 @@
+import"./WorldMap.astro_astro_type_script_index_0_lang.gt39i2uJ.js";document.querySelectorAll("[data-series-toggle]").forEach(e=>e.addEventListener("change",()=>{const s=e.closest("figure").querySelector(`[data-series="${e.dataset.seriesToggle}"]`);s.style.display=e.checked?"":"none"}));
