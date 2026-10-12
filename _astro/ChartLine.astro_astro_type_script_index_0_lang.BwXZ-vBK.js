@@ -1,0 +1,1 @@
+import"./ChartBar.astro_astro_type_script_index_0_lang.YHuEYpTL.js";document.querySelectorAll("[data-series-toggle]").forEach(e=>e.addEventListener("change",()=>{const a=e.closest("figure"),s=e.dataset.seriesToggle;a.querySelectorAll(`[data-series="${s}"],[data-series-halo="${s}"]`).forEach(o=>o.style.display=e.checked?"":"none")}));
