@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 Disallow: /internal/
 Disallow: /ms/internal/
+Disallow: /SOURCE-FIXES.md
 
 Sitemap: https://sperc-upm.github.io/sitemap-index.xml
